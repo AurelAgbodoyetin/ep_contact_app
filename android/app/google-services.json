@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "539297668792",
+    "project_id": "epcontactapp",
+    "storage_bucket": "epcontactapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539297668792:android:e3b2ff2be8bd7cf77e5e4d",
+        "android_client_info": {
+          "package_name": "com.epatriote.ep_contacts_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539297668792-5f0hou4k16thn0qvq71f0b7csd1kc2na.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epatriote.ep_contacts_app",
+            "certificate_hash": "0a7bb884ae68683d2d6f4940b1d12996fa580668"
+          }
+        },
+        {
+          "client_id": "539297668792-arernsb0lni8obrlt70hpami3uj15j02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFYakrrJ_8PNLkM1gwy_g3cohzFiEfZrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539297668792-arernsb0lni8obrlt70hpami3uj15j02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
